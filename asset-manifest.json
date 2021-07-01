@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/linktree/static/css/main.3a9ca402.chunk.css",
+    "main.js": "/linktree/static/js/main.ce5c7662.chunk.js",
+    "main.js.map": "/linktree/static/js/main.ce5c7662.chunk.js.map",
+    "runtime-main.js": "/linktree/static/js/runtime-main.ae842cb4.js",
+    "runtime-main.js.map": "/linktree/static/js/runtime-main.ae842cb4.js.map",
+    "static/js/2.7c6d7d42.chunk.js": "/linktree/static/js/2.7c6d7d42.chunk.js",
+    "static/js/2.7c6d7d42.chunk.js.map": "/linktree/static/js/2.7c6d7d42.chunk.js.map",
+    "index.html": "/linktree/index.html",
+    "precache-manifest.25449e5b8ba49da6822f65fd9483b3a9.js": "/linktree/precache-manifest.25449e5b8ba49da6822f65fd9483b3a9.js",
+    "service-worker.js": "/linktree/service-worker.js",
+    "static/css/main.3a9ca402.chunk.css.map": "/linktree/static/css/main.3a9ca402.chunk.css.map",
+    "static/js/2.7c6d7d42.chunk.js.LICENSE.txt": "/linktree/static/js/2.7c6d7d42.chunk.js.LICENSE.txt",
+    "static/media/edteam.png": "/linktree/static/media/edteam.879483e4.png",
+    "static/media/profile.jpg": "/linktree/static/media/profile.6e83ab4e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae842cb4.js",
+    "static/js/2.7c6d7d42.chunk.js",
+    "static/css/main.3a9ca402.chunk.css",
+    "static/js/main.ce5c7662.chunk.js"
+  ]
+}
